@@ -1,1 +1,1 @@
-web:gunicorn mymini.wsgi --log-file -
+web:gunicorn mymini.wsgi 
