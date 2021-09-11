@@ -1,0 +1,871 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "django_heroku",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_heroku",
+        "description": "django_heroku",
+        "detail": "django_heroku",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "mymini",
+        "description": "mymini",
+        "isExtraImport": true,
+        "detail": "mymini",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponseRedirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "isExtraImport": true,
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "isExtraImport": true,
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "isExtraImport": true,
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "auth_middleware",
+        "importPath": "mystore.middlewares.auth",
+        "description": "mystore.middlewares.auth",
+        "isExtraImport": true,
+        "detail": "mystore.middlewares.auth",
+        "documentation": {}
+    },
+    {
+        "label": "check_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "View",
+        "importPath": "django.views",
+        "description": "django.views",
+        "isExtraImport": true,
+        "detail": "django.views",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "env.Scripts.activate_this",
+        "description": "env.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "env.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mymini.asgi",
+        "description": "mymini.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "mymini.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-sm+wh&1jtjy5&qgto0j#3s+llv8u%+w%w(a8v#7+6sm#3uyl5l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False\nALLOWED_HOSTS = ['uyquchi.herokuapp.com/','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-sm+wh&1jtjy5&qgto0j#3s+llv8u%+w%w(a8v#7+6sm#3uyl5l'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = False\nALLOWED_HOSTS = ['uyquchi.herokuapp.com/','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "DEBUG = False\nALLOWED_HOSTS = ['uyquchi.herokuapp.com/','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['uyquchi.herokuapp.com/','127.0.0.1']\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'mystore',",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'mystore',\n]\nMIDDLEWARE = [",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "ROOT_URLCONF = 'mymini.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'mymini.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.2/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.2/howto/static-files/\nSTATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_ROOT",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\nSTATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nMEDIA_URL = '/images/'",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\n# Extra places for collectstatic to find static files.\nSTATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'images')",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_DIRS",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "STATICFILES_DIRS = (\n    os.path.join(BASE_DIR, 'static'),\n)\nSTATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'images')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\ndjango_heroku.settings(locals())",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'\n# Default primary key field type\n# https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field\nMEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'images')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\ndjango_heroku.settings(locals())",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "MEDIA_URL = '/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'images')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\ndjango_heroku.settings(locals())",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'images')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\ndjango_heroku.settings(locals())",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "mymini.settings",
+        "description": "mymini.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\ndjango_heroku.settings(locals())",
+        "detail": "mymini.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mymini.urls",
+        "description": "mymini.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('',include('mystore.urls')),\n]+static(settings.MEDIA_URL,document_root = settings.MEDIA_ROOT)",
+        "detail": "mymini.urls",
+        "documentation": {}
+    },
+    {
+        "label": "]+static(settings.MEDIA_URL,document_root",
+        "kind": 5,
+        "importPath": "mymini.urls",
+        "description": "mymini.urls",
+        "peekOfCode": "]+static(settings.MEDIA_URL,document_root = settings.MEDIA_ROOT)",
+        "detail": "mymini.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "mymini.wsgi",
+        "description": "mymini.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "mymini.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "auth_middleware",
+        "kind": 2,
+        "importPath": "mystore.middlewares.auth",
+        "description": "mystore.middlewares.auth",
+        "peekOfCode": "def auth_middleware(get_response):\n    def middleware(request):\n        print(request.session.get('customer'))\n        returnUrl = request.META['PATH_INFO']#asosiy foydalanuvchi turgan manzili \n        print(request.META['PATH_INFO'])\n        if not request.session.get('customer'):\n            return redirect(f'login?return_url={returnUrl}')\n        response = get_response(request)\n        return response\n    return middleware",
+        "detail": "mystore.middlewares.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "mystore.migrations.0001_initial",
+        "description": "mystore.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=20)),",
+        "detail": "mystore.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "is_in_cart",
+        "kind": 2,
+        "importPath": "mystore.templatetags.cart",
+        "description": "mystore.templatetags.cart",
+        "peekOfCode": "def is_in_cart(product,cart):\n    keys = cart.keys()\n    for id in keys:\n        if int(id)==product.id:\n            return True\n    return False\n@register.filter(name='cart_quantity')\ndef cart_quantity(product,cart):\n    keys = cart.keys()\n    for id in keys:",
+        "detail": "mystore.templatetags.cart",
+        "documentation": {}
+    },
+    {
+        "label": "cart_quantity",
+        "kind": 2,
+        "importPath": "mystore.templatetags.cart",
+        "description": "mystore.templatetags.cart",
+        "peekOfCode": "def cart_quantity(product,cart):\n    keys = cart.keys()\n    for id in keys:\n        if int(id) == product.id:\n            return cart.get(id)\n    return 0\n@register.filter(name='price_total')\ndef price_total(product,cart):\n    return product.price*cart_quantity(product,cart)\n@register.filter(name='total_cart_price')",
+        "detail": "mystore.templatetags.cart",
+        "documentation": {}
+    },
+    {
+        "label": "price_total",
+        "kind": 2,
+        "importPath": "mystore.templatetags.cart",
+        "description": "mystore.templatetags.cart",
+        "peekOfCode": "def price_total(product,cart):\n    return product.price*cart_quantity(product,cart)\n@register.filter(name='total_cart_price')\ndef total_cart_price(products,cart):\n    sum = 0\n    for p in products:\n        sum+=price_total(p,cart)\n    return sum",
+        "detail": "mystore.templatetags.cart",
+        "documentation": {}
+    },
+    {
+        "label": "total_cart_price",
+        "kind": 2,
+        "importPath": "mystore.templatetags.cart",
+        "description": "mystore.templatetags.cart",
+        "peekOfCode": "def total_cart_price(products,cart):\n    sum = 0\n    for p in products:\n        sum+=price_total(p,cart)\n    return sum",
+        "detail": "mystore.templatetags.cart",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "mystore.templatetags.cart",
+        "description": "mystore.templatetags.cart",
+        "peekOfCode": "register = template.Library()\n@register.filter(name='is_in_cart')\ndef is_in_cart(product,cart):\n    keys = cart.keys()\n    for id in keys:\n        if int(id)==product.id:\n            return True\n    return False\n@register.filter(name='cart_quantity')\ndef cart_quantity(product,cart):",
+        "detail": "mystore.templatetags.cart",
+        "documentation": {}
+    },
+    {
+        "label": "currency",
+        "kind": 2,
+        "importPath": "mystore.templatetags.custom_filter",
+        "description": "mystore.templatetags.custom_filter",
+        "peekOfCode": "def currency(number):\n    return \"UZS\"+str(number)\n@register.filter(name='multiply')\ndef multiply(number,number1):\n    return number * number1",
+        "detail": "mystore.templatetags.custom_filter",
+        "documentation": {}
+    },
+    {
+        "label": "multiply",
+        "kind": 2,
+        "importPath": "mystore.templatetags.custom_filter",
+        "description": "mystore.templatetags.custom_filter",
+        "peekOfCode": "def multiply(number,number1):\n    return number * number1",
+        "detail": "mystore.templatetags.custom_filter",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "mystore.templatetags.custom_filter",
+        "description": "mystore.templatetags.custom_filter",
+        "peekOfCode": "register = template.Library()\n@register.filter(name='currency')\ndef currency(number):\n    return \"UZS\"+str(number)\n@register.filter(name='multiply')\ndef multiply(number,number1):\n    return number * number1",
+        "detail": "mystore.templatetags.custom_filter",
+        "documentation": {}
+    },
+    {
+        "label": "AdminProduct",
+        "kind": 6,
+        "importPath": "mystore.admin",
+        "description": "mystore.admin",
+        "peekOfCode": "class AdminProduct(admin.ModelAdmin):\n    list_display = ['name','price','category']\nclass AdminCategory(admin.ModelAdmin):\n    list_display = ['name']\nadmin.site.register(Product,AdminProduct)\nadmin.site.register(Category,AdminCategory)\nadmin.site.register(Customer)\nadmin.site.register(Order)",
+        "detail": "mystore.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AdminCategory",
+        "kind": 6,
+        "importPath": "mystore.admin",
+        "description": "mystore.admin",
+        "peekOfCode": "class AdminCategory(admin.ModelAdmin):\n    list_display = ['name']\nadmin.site.register(Product,AdminProduct)\nadmin.site.register(Category,AdminCategory)\nadmin.site.register(Customer)\nadmin.site.register(Order)",
+        "detail": "mystore.admin",
+        "documentation": {}
+    },
+    {
+        "label": "MystoreConfig",
+        "kind": 6,
+        "importPath": "mystore.apps",
+        "description": "mystore.apps",
+        "peekOfCode": "class MystoreConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'mystore'",
+        "detail": "mystore.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "peekOfCode": "class Category(models.Model):\n    name = models.CharField(max_length=20)\n    @staticmethod\n    def get_all_categories():\n        return Category.objects.all()\n    def __str__(self):\n        return self.name\nclass Product(models.Model):\n    name = models.CharField(max_length=50)\n    price = models.IntegerField(default=0)",
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "peekOfCode": "class Product(models.Model):\n    name = models.CharField(max_length=50)\n    price = models.IntegerField(default=0)\n    category = models.ForeignKey(Category,on_delete=models.CASCADE,default=1)\n    description = models.CharField(max_length=200,default=\"\",null=True,blank=True)\n    image = models.ImageField(upload_to='uploads/products/')\n    @staticmethod\n    def get_products_by_id(ids):\n        return Product.objects.filter(id__in=ids)\n    @staticmethod",
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "Customer",
+        "kind": 6,
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "peekOfCode": "class Customer(models.Model):\n    first_name = models.CharField(max_length=50)\n    last_name = models.CharField(max_length=50)\n    phone = models.CharField(max_length=50)\n    email = models.EmailField()\n    password = models.CharField(max_length=500)\n    def register(self):\n        self.save()\n    @staticmethod\n    def get_customer_by_email(email):",
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "mystore.models",
+        "description": "mystore.models",
+        "peekOfCode": "class Order(models.Model):#savatchani buyurtma holatiga o'tkazish\n    product = models.ForeignKey(Product,on_delete=models.CASCADE)\n    customer = models.ForeignKey(Customer,on_delete=models.CASCADE)\n    quantity = models.IntegerField(default=1)\n    price = models.IntegerField()\n    address = models.CharField(max_length=50,default='',blank=True)#mijoz manzili\n    phone = models.CharField(max_length=50,default='',blank=True)#mijoz telefon raqami\n    date = models.DateField(default=datetime.datetime.today)#buyurtma berilgan sana\n    status = models.BooleanField(default=False)\n    def placeOrder(self):",
+        "detail": "mystore.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "mystore.urls",
+        "description": "mystore.urls",
+        "peekOfCode": "urlpatterns = [\n    path('',Index.as_view(),name='homepage'),\n    path('store',store,name='store'),\n    path('signup',Signup.as_view(),name='signup'),\n    path('login',Login.as_view(),name='login'),\n    path('logout',logout,name='logout'),\n    path('cart',auth_middleware(Cart.as_view()),name='cart'),\n    path('check-out',CheckOut.as_view(),name='checkout'),\n    path('orders',auth_middleware(OrderView.as_view()),name='orders'),\n]",
+        "detail": "mystore.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Cart",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class Cart(View):\n    def get(self,request):#session bu sessiyalar qachonki foydalanuvchi qandaydir amalni bajarsa saytga kirsa yoqiladi,va foydalanuvchi saytdan chiqishi bilan sessiya vaqti tugaydi\n        ids = list(request.session.get('cart').keys())\n        products = Product.get_products_by_id(ids)\n        print(products)\n        return render(request,'cart.html',{'products':products})\nclass CheckOut(View):\n    def post(self,request):\n        address = request.POST.get('address')\n        phone = request.POST.get('phone')",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "CheckOut",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class CheckOut(View):\n    def post(self,request):\n        address = request.POST.get('address')\n        phone = request.POST.get('phone')\n        customer = request.session.get('customer')\n        cart = request.session.get('cart')\n        products = Product.get_products_by_id(cart.keys())\n        print(address,phone,customer,cart,products)\n        for product in products:\n            print(cart.get(str(product.id)))",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "Index",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class Index(View):\n    def post(self,request):\n        product = request.POST.get('product')\n        remove = request.POST.get('remove')\n        cart = request.session.get('cart')\n        if cart:\n            quantity = cart.get(product)\n            if quantity:\n                if remove:\n                    if quantity <= 1:#1",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class Login(View):\n    return_url = None\n    def get(self,request):\n        Login.return_url = request.GET.get('return_url')\n        return render(request,'login.html')\n    def post(self,request):\n        email = request.POST.get('email')\n        password = request.POST.get('password')\n        customer = Customer.get_customer_by_email(email)\n        error_message = None",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "OrderView",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class OrderView(View):\n    def get(self,request):\n        customer = request.session.get('customer')\n        orders = Order.get_orders_by_customer(customer)\n        print(orders)\n        return render(request,'orders.html',{'orders':orders})\nclass Signup(View):\n    def get(self,request):\n        return render(request,'signup.html')\n    def post(self,request):",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "Signup",
+        "kind": 6,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "class Signup(View):\n    def get(self,request):\n        return render(request,'signup.html')\n    def post(self,request):\n        postData = request.POST\n        first_name = postData.get('firstname')\n        last_name = postData.get('lastname')\n        phone = postData.get('phone')\n        email = postData.get('email')\n        password = postData.get('password')",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "store",
+        "kind": 2,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "def store(request):\n    cart = request.session.get('cart')\n    if not cart:\n        request.session['cart']={}\n    products = None\n    categories = Category.get_all_categories()\n    categoryID = request.GET.get('category')\n    if categoryID:\n        products = Product.get_all_products_by_categoryid(categoryID)\n    else:",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "mystore.views",
+        "description": "mystore.views",
+        "peekOfCode": "def logout(request):\n    request.session.clear()\n    return redirect('login')\nclass OrderView(View):\n    def get(self,request):\n        customer = request.session.get('customer')\n        orders = Order.get_orders_by_customer(customer)\n        print(orders)\n        return render(request,'orders.html',{'orders':orders})\nclass Signup(View):",
+        "detail": "mystore.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mymini.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
